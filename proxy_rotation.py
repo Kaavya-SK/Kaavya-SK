@@ -9,6 +9,7 @@ sites_to_check = ["http://books.toscrape.com/index.html",
 #contains the url of the websites to be checked
 
 counter = 0 #to keep track of list of proxies
+counter = 0 #to keep track of list of proxies
 
 for site in sites_to_check:
         try:
